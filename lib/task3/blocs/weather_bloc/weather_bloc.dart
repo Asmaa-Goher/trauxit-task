@@ -5,8 +5,8 @@ import 'package:bloc/bloc.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:meta/meta.dart';
-import 'package:trauxit_task/Task3/models/weather_model.dart';
-import 'package:trauxit_task/Task3/repositories/weather_repository.dart';
+import 'package:trauxit_task/task3/models/weather_model.dart';
+import 'package:trauxit_task/task3/repositories/weather_repository.dart';
 
 part 'weather_event.dart';
 part 'weather_state.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:trauxit_task/Task3/utilities/colors.dart';
-import 'package:trauxit_task/Task3/widgets/weather_screen/weather_button.dart';
-import 'package:trauxit_task/Task3/widgets/weather_screen/weather_image.dart';
-import 'package:trauxit_task/Task3/widgets/weather_screen/weather_text_field.dart';
+import 'package:trauxit_task/task3/utilities/colors.dart';
+import 'package:trauxit_task/task3/widgets/weather_screen/weather_button.dart';
+import 'package:trauxit_task/task3/widgets/weather_screen/weather_image.dart';
+import 'package:trauxit_task/task3/widgets/weather_screen/weather_text_field.dart';
 import 'package:trauxit_task/task1/utilities/extensions.dart';
 
 class WeatherScreen extends StatelessWidget {

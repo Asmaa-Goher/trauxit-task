@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:trauxit_task/Task3/models/post_model.dart';
-import 'package:trauxit_task/Task3/utilities/colors.dart';
+import 'package:trauxit_task/task3/models/post_model.dart';
+import 'package:trauxit_task/task3/utilities/colors.dart';
 
 import '../../blocs/posts_bloc/posts_bloc.dart';
 import '../shared_widgets/build_text.dart';

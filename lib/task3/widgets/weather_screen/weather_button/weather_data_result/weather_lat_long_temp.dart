@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:trauxit_task/Task3/utilities/extensions.dart';
+import 'package:trauxit_task/task3/utilities/extensions.dart';
 
 import '../../../../blocs/weather_bloc/weather_bloc.dart';
 import '../../../../models/weather_model.dart';

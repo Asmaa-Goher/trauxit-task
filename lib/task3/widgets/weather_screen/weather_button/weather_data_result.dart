@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:trauxit_task/Task3/utilities/extensions.dart';
-import 'package:trauxit_task/Task3/widgets/weather_screen/weather_button/weather_data_result/weather_lat_long_temp.dart';
-import 'package:trauxit_task/Task3/widgets/weather_screen/weather_button/weather_data_result/weather_loc_country_clouds.dart';
-import 'package:trauxit_task/Task3/widgets/weather_screen/weather_image.dart';
+import 'package:trauxit_task/task3/utilities/extensions.dart';
+import 'package:trauxit_task/task3/widgets/weather_screen/weather_button/weather_data_result/weather_lat_long_temp.dart';
+import 'package:trauxit_task/task3/widgets/weather_screen/weather_button/weather_data_result/weather_loc_country_clouds.dart';
+import 'package:trauxit_task/task3/widgets/weather_screen/weather_image.dart';
 
 class WeatherDataResult extends StatelessWidget {
   const WeatherDataResult({super.key});
